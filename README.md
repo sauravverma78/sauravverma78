@@ -7,6 +7,10 @@
 ---
 
 ##  Featured Projects
+
+- [Ultra Low Latency L2 Order Book Prediction](https://github.com/sauravverma78/ultra-low-latency-lob)  
+  LSTM/Transformer models on financial order book data for real-time, ultra-low-latency price movement prediction.
+  
 - [Interpretable RAG Fact-Checking](https://github.com/sauravverma78/InterpretableRAGFactCheck)  
   Qwen2, GPT, Mistral LLMs + FEVER dataset, PEFT/QLoRA + DPO + explainability.  
 
@@ -14,13 +18,12 @@
   Parallel batched decoding, CUDA streams, single-block kernels.  
 
 - [Retinal Segmentation](https://github.com/sauravverma78/ultrasound-image-segmentation)  
-  End-to-end ophthalmic imaging pipeline: dataset curation (frame extraction & annotation with Supervisely), **multi-label segmentation** of retinal structures, and **training deep CNN/Transformer models** for segmentation and downstream **disease classification** tasks.  
+  End-to-end ophthalmic imaging pipeline: dataset curation (frame extraction & annotation with Supervisely), multi-label segmentation** of retinal structures, and training deep CNN/Transformer models for segmentation and downstream disease classification tasks.  
 
 - [Smartcard Ticketing Microservices (NTT Data Interview Demo, 2020)](https://github.com/sauravverma78/smartcard-microservices)  
   Spring Boot + Kafka + Spark + Docker; ~7K events/sec prototype throughput.  
 
-- [Ultra Low Latency L2 Order Book Prediction](https://github.com/sauravverma78/ultra-low-latency-lob)  
-  LSTM/Transformer models on financial order book data for real-time, low-latency price movement prediction.  
+
 
 ---
 
