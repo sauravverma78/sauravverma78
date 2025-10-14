@@ -16,7 +16,7 @@
 - [Retinal Segmentation](https://github.com/sauravverma78/ultrasound-image-segmentation)  
   End-to-end ophthalmic imaging pipeline: dataset curation (frame extraction & annotation with Supervisely), **multi-label segmentation** of retinal structures, and **training deep CNN/Transformer models** for segmentation and downstream **disease classification** tasks.  
 
-- [Smartcard Ticketing Microservices (NTT Data Interview Demo, 2020)](https://github.com/sauravverma78/smartcard-microservices-nttdata)  
+- [Smartcard Ticketing Microservices (NTT Data Interview Demo, 2020)](https://github.com/sauravverma78/smartcard-microservices)  
   Spring Boot + Kafka + Spark + Docker; ~7K events/sec prototype throughput.  
 
 - [Ultra Low Latency L2 Order Book Prediction](https://github.com/sauravverma78/ultra-low-latency-lob)  
