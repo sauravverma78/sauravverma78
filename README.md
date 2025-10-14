@@ -13,7 +13,7 @@
 - [Gallager-B CUDA Optimization](https://github.com/sauravverma78/gallagher-b-cuda)  
   Parallel batched decoding, CUDA streams, single-block kernels.  
 
-- [Retinal Ultrasound Segmentation](https://github.com/sauravverma78/retinal-segmentation)  
+- [Retinal Ultrasound Segmentation](https://github.com/sauravverma78/ultrasound-image-segmentation)  
   End-to-end ophthalmic imaging pipeline: dataset curation (frame extraction & annotation with Supervisely), **multi-label segmentation** of retinal structures, and **training deep CNN/Transformer models** for segmentation and downstream **disease classification** tasks.  
 
 - [Smartcard Ticketing Microservices (NTT Data Interview Demo, 2020)](https://github.com/sauravverma78/smartcard-microservices-nttdata)  
